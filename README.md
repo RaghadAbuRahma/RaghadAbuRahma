@@ -5,16 +5,19 @@ I'm Raghad, a passionate Full Stack Development student at AXSOS ACADEMY.
 <h2>About Me</h2>
 <ul>
  <li> Learning: Full Stack development</li>
- <li>![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- </li>
-
- 
+ <li> HTML </li>
+ <li> CSS </li>
+ <li> SQL </li>
+ <li> Python </li>
+ <li> Java </li>
+ <li> React </li>
+ <li> MongoBD </li>
+ <li>Express.js</li>
+ <li>Node.js</li>
 </ul>
 
 Please, feel free to reach out:
-[![Gmail](https://example.com/gmail-icon.png)](mailto:your.email@gmail.com)
 
-[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/your-linkedin-profile)
 
 
 
