@@ -1,4 +1,4 @@
- 👋 Hi, I’m Raghad. 
+ 👋 Hi, I’m Raghad. <br>
 A full stack student At AXSOS academy. 
 I’m currently learning  HTML / CSS / SQL/ Python / Java/ MERN. 
 - 💞️ I’m looking to collaborate on ...
