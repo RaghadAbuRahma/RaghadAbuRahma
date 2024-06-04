@@ -5,8 +5,8 @@ I'm Raghad, a passionate Full Stack Development student at AXSOS ACADEMY.
 <h2>About Me</h2>
 <ul>
  <li> Learning: Full Stack development</li>
- <li>![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-</li>
+ <li>![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ </li>
 
  
 </ul>
