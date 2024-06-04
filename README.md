@@ -1,9 +1,15 @@
  👋 Hi, I’m Raghad. <br>
 A full stack student At AXSOS academy. <br>
 I’m currently learning  HTML / CSS / SQL/ Python / Java/ MERN. <br>
-- 💞️ I’m looking to collaborate on ...
+
 Please, feel free to reach out:
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+<a href="mailto:youremail@gmail.com">
+  <img src="assets/icons/gmail.svg" alt="Gmail" width="30" height="30">
+</a>
+
+<a href="https://www.linkedin.com/in/yourprofile">
+  <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+</a>
 
 
 
