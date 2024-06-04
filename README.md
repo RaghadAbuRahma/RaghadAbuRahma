@@ -26,9 +26,9 @@ I'm Raghad, a passionate Full Stack Development student at AXSOS ACADEMY.
 ReadEase website is an online book store, that gives the user the chance to view a book details, and reviews from other useres. Also, our website provide a space for readers to communicate and share thier thoughts, opinions, and knowldge.
 ### Get in Touch
 
-- 📫 **Email:** [Your Email]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 🌐 **Portfolio:** [Your Portfolio Website]
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 Feel free to explore my repositories and follow my journey as I grow as a developer. Let's connect and create amazing things together!
 
