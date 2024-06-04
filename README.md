@@ -3,9 +3,10 @@ A full stack student At AXSOS academy. <br>
 I’m currently learning  HTML / CSS / SQL/ Python / Java/ MERN. <br>
 
 Please, feel free to reach out:
-[![Gmail](https://image.flaticon.com/icons/png/512/281/281769.png)](mailto:your.email@gmail.com)
+[![Gmail](https://example.com/gmail-icon.png)](mailto:your.email@gmail.com)
 
-[![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/your-linkedin-profile)
+
 
 
 
