@@ -14,8 +14,8 @@ I'm Raghad, a passionate Full Stack Development student at AXSOS ACADEMY.
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
   - ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) React
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) N
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
 - 🎓 **Current Project:** Just completed my first Python project
 - 💡 **Passionate About:** Creating user-friendly web applications, solving complex problems, and continuous learning
 - 🌟 **Goals:** To contribute to open-source projects, collaborate with other developers, and keep improving my coding skills
