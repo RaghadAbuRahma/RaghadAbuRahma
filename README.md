@@ -22,7 +22,7 @@ I'm Raghad, a passionate Full Stack Development student at AXSOS ACADEMY.
 
 ### Projects
 
-- **Python Project:** ReadEase - Onilne Book Store https://github.com/mustafataha5/New_Book_store
+- **Python Project:** ReadEase - Onilne Book Store https://github.com/mustafataha5/New_Book_store <br>
 ReadEase website is an online book store, that gives the user the chance to view a book details, and reviews from other useres. Also, our website provide a space for readers to communicate and share thier thoughts, opinions, and knowldge.
 ### Get in Touch
 
