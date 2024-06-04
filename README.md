@@ -1,6 +1,14 @@
- 👋 Hi, I’m Raghad. <br>
-A full stack student At AXSOS academy. <br>
-I’m currently learning  HTML / CSS / SQL/ Python / Java/ MERN. <br>
+
+
+<h2>Hi there! 👋</h2>
+I'm Raghad, a passionate Full Stack Development student at AXSOS ACADEMY. 
+<h2>About Me</h2>
+<ul>
+ <li> Learning: Full Stack development</li>
+ <li><i class="fab fa-html5"></i> HTML</li>
+
+ 
+</ul>
 
 Please, feel free to reach out:
 [![Gmail](https://example.com/gmail-icon.png)](mailto:your.email@gmail.com)
