@@ -24,6 +24,18 @@ I'm Raghad, a passionate Full Stack Development student at AXSOS ACADEMY.
 
 - **Python Project:** ReadEase - Onilne Book Store https://github.com/mustafataha5/New_Book_store <br>
 ReadEase website is an online book store, that gives the user the chance to view a book details, and reviews from other useres. Also, our website provide a space for readers to communicate and share thier thoughts, opinions, and knowldge.
+
+- **Java Project:** TrueBites - A dietary website built with HTML,  CSS, Java / Spring.  https://github.com/majedkhaldi/TrueBites <br>
+Our platform provides evidence-based information and practical tools, including personalized meal plans and a food diary, to help users make informed dietary choices. By calculating BMI, BMR, and TDEE, TrueBites offers tailored meal suggestions and tracks daily calorie intake Tools: Spring framework, STS, JSP, JPA, HTML5, CSS3, Bootstrap, JavaScript, Java Chart, Advanced Queries.
+
+- **MERN Project:** Athletify -  A platform built with MERN (MongoDB, Express.jx, React, Node.js). https://github.com/ibrahim-ak/Athletify <br>
+ Athletify  is a streamlined platform designed for athletic academies, offering efficient management tools for student records, training schedules, and financial tracking. With features like secure login and real-time chat, Athletify simplifies administrative tasks, allowing academy owners to focus on training and development.
+Tools: Socket.io, JWT, Material-UI, Bootstrap, Git, and RESTful APIs.
+
+
+
+
+
 ### Get in Touch
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
